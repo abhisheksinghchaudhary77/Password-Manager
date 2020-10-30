@@ -98,7 +98,7 @@ def main():
 
     usr_name = input("Enter username:")
 
-    main_path = 'C:/Users/Abhishek S Chaudhary/Desktop/Python Projects/'
+    main_path = #LOCATION
     os.chdir(main_path)
 
     select = ("Select an option:")
